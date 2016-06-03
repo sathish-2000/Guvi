@@ -1,0 +1,5 @@
+L = list(raw_input())
+L = map(int,L)
+L.sort()
+L = map(str,L)
+print ''.join(L[:len(L)-3])
