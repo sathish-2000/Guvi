@@ -1,4 +1,4 @@
-# Hi Mr.Arun Prakash,  We can able to remove make the string "racecar" as Palindrome by removing 'e' also. The following solution will
+# Hi Mr.Arun Prakash,  We can able to make the string "racecar" as Palindrome by removing 'e' also. The following solution will
 # give the output in that manner. I hope this method and output is also correct.
 
 
